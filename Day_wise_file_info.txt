@@ -7,3 +7,5 @@ I learnt how make a pipeline and learnt how to use GridSearchCV to improve the p
 Day 2 (project)
 I made my first project with predicts the price of a house by taking the input of some important factors same as the ones in the training dataset. I also learnt how to split data for testing and training.
 
+Day 3
+Learnt the preprocessing process. Functions like QuantileTransformer and its effect on the data, predictions, etc.
