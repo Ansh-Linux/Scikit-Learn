@@ -1,0 +1,9 @@
+Day 1
+I learnt the basics of scikit learn. Learned how to import and use a model and a preprocessor such as the StandardScaler and KNeighborsRegressor.
+
+Day 2
+I learnt how make a pipeline and learnt how to use GridSearchCV to improve the performance of my model. How to provide the parameters for the GridSearchCV and some new functions for pipe like get_params().
+
+Day 2 (project)
+I made my first project with predicts the price of a house by taking the input of some important factors same as the ones in the training dataset. I also learnt how to split data for testing and training.
+
